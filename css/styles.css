@@ -2,3 +2,25 @@
   font-family: 'Figtree';
   src: url('../assets/fonts/Figtree-VariableFont_wght.ttf');
 }
+
+:root {
+  /* Color Palette */
+  --yellow: #f4d04e;
+  --gray-950: #111111;
+  --gray-500: #6b6b6b;
+  --white: #ffffff;
+
+  /* Typography */
+  --text-preset-1-font-weight: 900;
+  --text-preset-1-font-size: 1.5rem;
+  --text-preset-2-font-weight: 400;
+  --text-preset-2-font-size: 1rem;
+  --text-preset-3-font-size: 0.875rem;
+  --line-height: 150%;
+
+  /* Spacing */
+  --spacing-300: 1.5rem;
+  --spacing-150: 0.75rem;
+  --spacing-100: 0.5rem;
+  --spacing-50: 0.25rem;
+}
