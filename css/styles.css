@@ -46,22 +46,24 @@ main {
 
 .blog-card {
   background-color: var(--white);
-  border-radius: var(--spacing-50);
+  border-radius: 1.25rem;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   width: 24rem;
   height: 32.625rem;
+  padding: var(--spacing-300);
 }
 
 .blog-card__image-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  margin-bottom: var(--spacing-150);
 }
 
-.blog-card__image-container img {
-  width: 34.5rem;
-  height: 15.188rem;
-  border-radius: 0.625rem;
+.blog-card__image {
+  width: 100%;
+  height: auto;
+  border-radius: var(--spacing-150);
+  object-fit: cover;
 }
