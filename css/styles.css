@@ -24,3 +24,9 @@
   --spacing-100: 0.5rem;
   --spacing-50: 0.25rem;
 }
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
