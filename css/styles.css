@@ -75,7 +75,7 @@ main {
   border-radius: var(--spacing-50);
   padding: var(--spacing-50) var(--spacing-150);
   font-size: var(--text-preset-3-font-size);
-  font-weight: var(--text-preset-2-font-weight);
+  font-weight: var(--text-preset-1-font-weight);
   margin-bottom: var(--spacing-150);
   color: var(--gray-950);
 }
@@ -89,7 +89,7 @@ main {
 }
 
 .blog-card__title {
-  color: var(--yellow);
+  color: var(--gray-950);
   font-size: var(--text-preset-1-font-size);
   font-weight: var(--text-preset-1-font-weight);
   margin-bottom: var(--spacing-150);
