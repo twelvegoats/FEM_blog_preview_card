@@ -37,6 +37,13 @@ body {
   background-color: var(--yellow);
 }
 
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
 .blog-card {
   background-color: var(--white);
   border-radius: var(--spacing-50);
@@ -44,4 +51,17 @@ body {
   overflow: hidden;
   width: 24rem;
   height: 32.625rem;
+}
+
+/* .blog-card__image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+} */
+
+.blog-card__image-container img {
+  width: 34.5rem;
+  height: 15.188rem;
+  border-radius: 0.625rem;
 }
