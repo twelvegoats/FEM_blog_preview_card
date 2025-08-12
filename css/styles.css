@@ -98,6 +98,7 @@ main {
   font-size: var(--text-preset-2-font-size);
   font-weight: var(--text-preset-2-font-weight);
   color: var(--gray-500);
+  margin-bottom: var(--spacing-300);
 }
 
 .blog-card__author {
@@ -108,6 +109,6 @@ main {
 .blog-card__author-avatar {
   width: 2rem;
   height: 2rem;
-  margin-right: var(--spacing-100);
+  margin-right: var(--spacing-150);
   object-fit: cover;
 }
