@@ -67,3 +67,13 @@ main {
   border-radius: var(--spacing-150);
   object-fit: cover;
 }
+
+.blog-card__category {
+  display: inline-block;
+  background-color: var(--yellow);
+  border-radius: var(--spacing-50);
+  padding: var(--spacing-50) var(--spacing-150);
+  font-size: var(--text-preset-3-font-size);
+  font-weight: var(--text-preset-2-font-weight);
+  margin-bottom: var(--spacing-150);
+}
