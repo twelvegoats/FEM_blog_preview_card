@@ -30,3 +30,9 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  font-family: 'Figtree', sans-serif;
+  line-height: var(--line-height);
+  background-color: var(--yellow);
+}
