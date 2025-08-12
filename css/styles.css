@@ -112,3 +112,9 @@ main {
   margin-right: var(--spacing-150);
   object-fit: cover;
 }
+
+.blog-card__author-name {
+  color: var(--gray-950);
+  font-weight: var(--text-preset-1-font-weight);
+  font-size: var(--text-preset-3-font-size);
+}
