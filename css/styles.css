@@ -36,3 +36,12 @@ body {
   line-height: var(--line-height);
   background-color: var(--yellow);
 }
+
+.blog-card {
+  background-color: var(--white);
+  border-radius: var(--spacing-50);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 24rem;
+  height: 32.625rem;
+}
