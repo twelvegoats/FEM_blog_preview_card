@@ -86,3 +86,10 @@ main {
   color: var(--gray-950);
   margin-bottom: var(--spacing-150);
 }
+
+.blog-card__title {
+  color: var(--yellow);
+  font-size: var(--text-preset-1-font-size);
+  font-weight: var(--text-preset-1-font-weight);
+  margin-bottom: var(--spacing-150);
+}
