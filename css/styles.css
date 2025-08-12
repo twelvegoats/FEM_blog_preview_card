@@ -93,3 +93,9 @@ main {
   font-weight: var(--text-preset-1-font-weight);
   margin-bottom: var(--spacing-150);
 }
+
+.blog-card__description {
+  font-size: var(--text-preset-2-font-size);
+  font-weight: var(--text-preset-2-font-weight);
+  color: var(--gray-500);
+}
