@@ -99,3 +99,8 @@ main {
   font-weight: var(--text-preset-2-font-weight);
   color: var(--gray-500);
 }
+
+.blog-card__author {
+  display: flex;
+  align-items: center;
+}
