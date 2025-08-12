@@ -76,4 +76,13 @@ main {
   font-size: var(--text-preset-3-font-size);
   font-weight: var(--text-preset-2-font-weight);
   margin-bottom: var(--spacing-150);
+  color: var(--gray-950);
+}
+
+.blog-card__date {
+  display: block;
+  font-size: var(--text-preset-3-font-size);
+  font-weight: var(--text-preset-2-font-weight);
+  color: var(--gray-950);
+  margin-bottom: var(--spacing-150);
 }
