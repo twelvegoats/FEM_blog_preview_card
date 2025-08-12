@@ -21,7 +21,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 Users should be able to:
 
-- See hover and focus states for all interactive elements on the page
+- View the optimal layout for the blog preview card
+- See a responsive design that works on both mobile and desktop devices
+- Experience a clean, accessible card component with proper semantic structure
 
 ### Screenshot
 
