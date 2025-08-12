@@ -53,12 +53,12 @@ main {
   height: 32.625rem;
 }
 
-/* .blog-card__image-container {
+.blog-card__image-container {
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
-} */
+}
 
 .blog-card__image-container img {
   width: 34.5rem;
