@@ -52,6 +52,7 @@ main {
   width: 24rem;
   height: 32.625rem;
   padding: var(--spacing-300);
+  box-shadow: 8px 8px var(--gray-950);
 }
 
 .blog-card__image-container {
